@@ -6,6 +6,7 @@ This repository contains an in-depth analysis of sales performance using Excel a
  Project Objective:
 
 Sales Report :
+
 Project objective:
 
 1. Create a [customer performance report](https://github.com/sampyk12/Excel--Sales--Analytics/blob/main/Customer%20Performance%20Report.pdf)
@@ -18,7 +19,8 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 
 Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-Finance Report:
+Finance Report :
+
 Project objective:
 
 1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/sampyk12/Excel--Sales--Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/sampyk12/Excel--Sales--Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
